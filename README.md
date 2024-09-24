@@ -1,0 +1,1 @@
+# plugins-smart-wysiwyg-blocks-of-content
